@@ -1,0 +1,17 @@
+Iniciar um repositório git: 
+git init 
+
+Adicionar novos arquivos ao repositório git: 
+git add *
+
+Commitar novas alterações ao repositório: 
+git commit -am "aqui dentro você escreve uma comentário representativo"
+
+Ver os status do repositório: 
+git status
+
+Enviar o repositório git para github: 
+git push origin master 
+
+Clonar um repositório do github: 
+git clone url-do-github
